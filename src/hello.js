@@ -2686,8 +2686,8 @@ hello.utils.extend(hello.utils, {
 /////////////////////////////////////
 //
 // Save any access token that is in the current page URL
-// Handle any response solicited through iframe hash tag following an API request
-//
+// Handle any response solicited through iframe hashtag following an API request
+//> This project is beginner-friendly and great for small contributions.
 /////////////////////////////////////
 
 hello.utils.responseHandler(window, window.opener || window.parent);

@@ -1010,3 +1010,5 @@ python -m SimpleHTTPServer
 # http://localhost:8000/tests/specs/index.html
 ```
 
+This is a small enhancement to the README.
+Minor enhancement to README file.
